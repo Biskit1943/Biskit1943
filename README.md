@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Biskit1943's github stats](https://github-readme-stats.vercel.app/api?username=Biskit1943)](https://github.com/anuraghazra/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+[![Biskit1943's github stats](https://github-readme-stats.vercel.app/api?username=Biskit1943&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Biskit1943/Biskit1943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
