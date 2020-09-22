@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=biskit1943.profile.visitors.id)
 
 [![Biskit1943's github stats](https://github-readme-stats.vercel.app/api?username=Biskit1943&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
